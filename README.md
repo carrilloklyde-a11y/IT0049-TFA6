@@ -1,5 +1,7 @@
 # TFA6 — Ember Café — From Arrays to Eloquent
 
+GitHub source: [IT0049-TFA6](https://github.com/carrilloklyde-a11y/IT0049-TFA6). When cloning this repository, follow **Fresh installation** below.
+
 This is the independent **TFA6** project. It has its own installed dependencies, environment settings, and SQLite database.
 
 ## Run locally
